@@ -1,0 +1,1 @@
+{"uuid":"ef9a6719-2b5b-4ce9-bc10-a3c6ee49dbd3","name":"com.amazon.qa.tests.LoginTest.setUP","description":"","start":1549597286781,"stop":1549597292816,"children":["3673afe1-fbc6-413e-b277-306c7c8be0df"],"befores":[{"name":"setUP","status":"passed","stage":"finished","description":"","start":1549597286782,"stop":1549597292816}]}

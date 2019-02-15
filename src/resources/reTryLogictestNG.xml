@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="FunctionalTestSuite" verbose="10" >
+ 
+ <listeners>
+        <listener class-name="com.amazon.qa.Analyzer.RetryAnalyzer"/>
+  </listeners>
+  
+  <test name="FunctionalTestCases">
+    <classes>
+      <class name="com.amazon.qa.tests.LoginTest"/>
+    </classes>
+  </test>
+</suite>

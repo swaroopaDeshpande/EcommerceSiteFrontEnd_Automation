@@ -1,0 +1,1 @@
+{"uuid":"a6ae87e8-10d6-4bec-8997-5cd5272da413","name":"com.amazon.qa.tests.LoginTest.tearDown","description":"","start":1549596349683,"stop":1549596350327,"children":["26de7209-bd3d-4d62-b9ce-80a380b844b8"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1549596349683,"stop":1549596350327}]}

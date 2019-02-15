@@ -1,0 +1,1 @@
+{"uuid":"74a1e2f6-3491-4372-95b3-0b2f1ced7c42","name":"com.amazon.qa.tests.ItemSearchTest.setUP","description":"","start":1549856471881,"stop":1549856495796,"children":["cedba672-e8c9-4e26-904e-5eea7f121e04"],"befores":[{"name":"setUP","status":"passed","stage":"finished","description":"","start":1549856471882,"stop":1549856495794}]}
